@@ -1,10 +1,32 @@
-body{
-    background-color: rgb(113, 194, 176);
-}
- h1{
-     text-align: center;
-     margin: auto;
-     padding-inline-start: 10 px;
-     padding-inline-end: 10px;
- }
+
+.h1{
+    position: fixed;
+    top: 0;
+    width: 100%
+  }
+  h1{
+    background-color: rgba(206, 238, 170, 0.781);
+  }
  
+  footer{
+    background-color: rgba(206, 238, 170, 0.781);
+    text-align: center;
+    font-size: x-large;
+    position: fixed;
+    bottom: 0;
+    width: 100%
+}
+
+ 
+  
+  html, body {
+    height: 100%;
+  }
+   
+  img{
+     width: 250px;
+  }
+  
+  .container{
+      float: left;
+  }
