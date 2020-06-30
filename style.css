@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(71, 114, 116);
+}
+ h1{
+     text-align: center;
+     margin: auto;
+     padding-inline-start: 10 px;
+     padding-inline-end: 10px;
+ }
