@@ -63,14 +63,14 @@
      width: 100%;
      text-align: center;
      font-size: 1.5em;
-     background-color:white;
+    
     
 
  }
    .card img{
-     width: 18rem;
+     
      height: 20rem;
-     border-radius: 50%;
+     border-radius: 45%;
    }
   
    #MyPhoto{
