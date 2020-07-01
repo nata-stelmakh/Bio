@@ -7,7 +7,9 @@
   h1{
     background-color: rgba(206, 238, 170, 0.781);
   }
- 
+  .card-text{
+      background-color: rgba(206, 238, 170, 0.781) ;
+  }
   footer{
     background-color: rgba(206, 238, 170, 0.781);
     text-align: center;

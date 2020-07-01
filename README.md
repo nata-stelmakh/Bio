@@ -3,5 +3,7 @@
 3. Colored h1
 4. Consistent navbars
 5. Using semantic tags: header, footer, article, figure
-6.Links on the paages working properly
+6.Links to the pages work properly
 7.Footer with links to linkedin and github
+8.List of projects created as cards
+9.added input for the contact, button not functioning yet
