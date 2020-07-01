@@ -1,7 +1,10 @@
  /* Style attributes aligned in specificity order */
 
- html, body {
+   body {
     height: 100%;
+    margin: auto;
+    scroll-padding-top: 15px;
+    scroll-padding-bottom: 15px;
   }
  footer{
     background-color: rgba(206, 238, 170, 0.781);
@@ -21,6 +24,8 @@
   h1{
     background-color: rgba(206, 238, 170, 0.781);
     text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: xxx-large;
   }
 
 
@@ -34,10 +39,9 @@
      height: 15%px;
   }
   
-   figure, article{
-      float: left;
-      margin-left: auto;
-      padding: 10px;
+  article{
+      margin: auto;
+      padding-bottom: 30px;
   }
   
 
@@ -69,10 +73,14 @@
    }
   
    #MyPhoto{
-       height:30%;
-       width: 30%;
+     margin: auto;
+     padding-left: 20px;
+       height:85%;
+       width: 85%;
    }
-  
+  #mainContainer{
+    @media (max-width: 767.98px)
+  }
   
  
   
