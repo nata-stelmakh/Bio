@@ -40,11 +40,18 @@
   }
   
 
-  }
+  
   
  .container{
       float: left;
   }
+  
+ /* .card{
+     margin: auto;
+     padding:10px;
+     height: 15%;
+     width: auto;
+ } */
  .card-text{
      text-align: center;
      float: center;
