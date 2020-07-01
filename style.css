@@ -1,22 +1,9 @@
+ /* Style attributes aligned in specificity order */
 
-.h1{
-    position: fixed;
-    top: 0;
-    width: 100%
-    
+ html, body {
+    height: 100%;
   }
-  h1{
-    background-color: rgba(206, 238, 170, 0.781);
-    padding:15px ;
-    margin: auto;
-  }
-  h2{
-      color: rgb(100, 148, 100);
-      padding:15px ;
-      margin: auto;
-  }
-  
-  footer{
+ footer{
     background-color: rgba(206, 238, 170, 0.781);
     text-align: center;
     font-size: x-large;
@@ -24,29 +11,51 @@
     bottom: 0;
     width: 100%
 }
-
- .card-text{
-     text-align: center;
-     float: center;
- }
-  
-  html, body {
-    height: 100%;
+  .h1{
+    position: fixed;
+    top: 0;
+    width: 100%
+     
   }
-   #MyPhoto{
-       height: 40%;
-       width: 40%;
+  h1{
+    background-color: rgba(206, 238, 170, 0.781);
+       
+  }
 
-   }
+
+  h2{
+      color: rgb(100, 148, 100);
+      padding:15px ;
+      margin: auto;
+  }
   img{
      width: 15%px;
      height: 15%px;
   }
   
-  .container{
+  figure, article{
+      float: left;
+      margin-left: auto;
+      padding: 10px;
+  }
+  
+
+  }
+  
+ .container{
       float: left;
   }
-  p{
-      font-size: 1.5em;
-  }
+ .card-text{
+     text-align: center;
+     float: center;
+ }
+  
+  
+   #MyPhoto{
+       height:30%;
+       width: 30%;
+   }
+  
+  
+ 
   

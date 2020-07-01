@@ -7,3 +7,4 @@
 7.Footer with links to linkedin and github
 8.List of projects created as cards
 9.added input for the contact, button not functioning yet
+10.added grid in portfolio
