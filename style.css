@@ -15,11 +15,12 @@
     position: fixed;
     top: 0;
     width: 100%
+    
      
   }
   h1{
     background-color: rgba(206, 238, 170, 0.781);
-       
+    text-align: center;
   }
 
 
