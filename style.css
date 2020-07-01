@@ -33,7 +33,7 @@
      height: 15%px;
   }
   
-  figure, article{
+   figure, article{
       float: left;
       margin-left: auto;
       padding: 10px;
@@ -42,21 +42,30 @@
 
   
   
- .container{
+   .container{
       float: left;
   }
   
- .card{
+   .card{
      margin: auto;
      padding:10px;
      height: 15%;
      width: auto;
  }
- .card-text{
+
+ 
+   .card-text{
+     width: 100%;
      text-align: center;
-     float: center;
+     font-size: 2em;
+     background-color:white;
+    
+
  }
-  
+   .card img{
+     width: 18rem;
+     height: 20rem;
+   }
   
    #MyPhoto{
        height:30%;
