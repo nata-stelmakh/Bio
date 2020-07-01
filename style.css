@@ -42,6 +42,7 @@
   article{
       margin: auto;
       padding-bottom: 30px;
+      font-size: 1.2em;
   }
   
 
@@ -76,8 +77,8 @@
    #MyPhoto{
      margin: auto;
      padding-left: 20px;
-       height:85%;
-       width: 85%;
+       height:90%;
+       width: 90%;
    }
   #mainContainer{
     @media (max-width: 767.98px)
