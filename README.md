@@ -16,4 +16,10 @@
 
 https://nata-stelmakh.github.io/Bio/index.html
 
-![](Webapp.png)
+![](assets\FirstPage.png)
+What changed:
+1.colors
+2.added links to projects
+3.Changed pictures and a layout of a projects
+4.Changed photo on the first page
+5.Round photo
