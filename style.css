@@ -7,7 +7,7 @@
     scroll-padding-bottom: 15px;
   }
  footer{
-    background-color: rgba(206, 238, 170, 0.781);
+    background-color:rgb(199, 199, 199);
     text-align: center;
     font-size: x-large;
     position: fixed;
@@ -22,7 +22,7 @@
      
   }
   h1{
-    background-color: rgba(206, 238, 170, 0.781);
+    background-color:rgb(199, 199, 199) ;
     text-align: center;
     font-family: 'Shadows Into Light', cursive;
     font-size: xxx-large;
@@ -30,7 +30,7 @@
 
 
   h2{
-      color: rgb(100, 148, 100);
+      color:rgb(199, 199, 199);
       padding:15px ;
       margin: auto;
   }
@@ -47,26 +47,24 @@
   
  
   
-   .container{
-      float: left;
-  }
+   
   
-   .card{
-     margin: auto;
-     padding:10px;
-     height: 15%;
-     width: auto;
- }
+  figure{
+    background-color: #fffafa;
+    margin: 1%;
+    padding:1%;
+    border:2px rgb(195, 195, 195) solid;
+  }
+
+  
+  .figcaption{
+    font-size: 1.5em;
+    text-align: center;
+    font-weight: normal;
+  }
+    
 
  
-   .card-text{
-     width: 100%;
-     text-align: center;
-     font-size: 1.5em;
-    
-    
-
- }
    .card img{
      
      height: 20rem;
@@ -75,18 +73,21 @@
   
    #MyPhoto{
      margin: auto;
-     padding-left: 20px;
+     /* padding-left: 20px;
        height:90%;
        width: 90%;
-       opacity: 0.9;
+       opacity: 0.9; */
+       border-radius: 50%;
+       
    }
   #mainContainer{
     @media (max-width: 767.98px);
-    
-     
-    
+    background-image:url(assets\89091255-programming-code-abstract-technology-background-of-software-developer-and-computer-script.jpg);
 
   }
+     
+  
+  
   
  
   
