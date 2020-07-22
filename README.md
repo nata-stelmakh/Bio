@@ -1,5 +1,7 @@
-![](assets\FirstPage.png)
+![](assets/FirstPage.png)
 https://nata-stelmakh.github.io/Bio/index.html
+
+
 1.This is my bio, created by using Bootstrap
 2. Three paged website
 3. Colored h1
