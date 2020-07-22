@@ -1,4 +1,5 @@
-
+![](assets\FirstPage.png)
+https://nata-stelmakh.github.io/Bio/index.html
 1.This is my bio, created by using Bootstrap
 2. Three paged website
 3. Colored h1
@@ -14,9 +15,9 @@
 13.added copyright 
 14.responsive image
 
-https://nata-stelmakh.github.io/Bio/index.html
 
-![](assets\FirstPage.png)
+
+
 What changed:
 1.colors
 2.added links to projects
