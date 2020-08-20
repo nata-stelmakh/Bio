@@ -9,17 +9,28 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
         integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="style.css">
+    <style>
+        body {
+            background-image: url('./assets/11.jpg');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+        }
+    </style>
     <title>About</title>
 </head>
 
 <body>
 
     <header>
-
+        <!-- <video class="bg_video_content" autoplay muted loop>
+            <source src="/image/coverr-sample-42-1026.mp4" type="video/mp4">
+        </video> -->
         <!-- <div class="container"> -->
-        <h1> Natallia Stelmakh</h1>
 
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <!-- <h1>Natallia Stelmakh</h1> -->
+
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
                 aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -39,29 +50,23 @@
 
     <!-- This is my bio section -->
     <div class="container" id="mainContainer">
-        <h2>About Me</h2>
-        <div class="row">
-            <div class="col -sm-1">
-                <img id="MyPhoto" class="thumbnail" src="assets/Photo.jpg" alt="My photo" width="200px" height="200px">
-            </div>
-            <div class="col-sm-5">
-                <article>
-                    <p> Hi!My name is Natallia!</p>
-                    <p> I am a Full-Stack Developer, currently living in North Jersey.</p>
-                    <p>My primary focus and inspiration for my studies is Web Development. I am both driven and
-                        self-motivated.
-                        I always have been passionate about science and technology, and strive to better myself as a
-                        developer.</p>
-                    <a
-                        href="https://drive.google.com/file/d/1VtWdvIfSv6yc-pU_YjG2odeHFS2yAL6s/view?usp=sharing">RESUME</a><br />
-                    <a href="https://github.com/nata-stelmakh"><i class="fab fa-github">GitHub</i></a><br />
-                    <a href="https://www.linkedin.com/in/natallia-stelmakh-29b6001a6/"><i
-                            class="fab fa-linkedin"></i>LinkedIn</a>
-                </article>
-            </div>
-            <div class="col-sm-3"></div>
-            <!-- Figuring out the best way to put my photo -->
 
+        <div class="row">
+            <!-- <div class="col -sm-1">
+                <img id="MyPhoto" class="thumbnail" src="assets/Photo.jpg" alt="My photo" width="200px" height="200px">
+            </div> -->
+
+            <div class="jumbotron">
+                <h1 class="display-4"> Hi ! My name is Natallia Stelmakh !</h1>
+                <p class="lead"> I am a Full-Stack Developer, currently living in North Jersey.</p>
+                <p class="lead"> My primary focus and inspiration for my studies is Web Development.</p>
+                <hr>
+
+                <a href="https://drive.google.com/file/d/1VtWdvIfSv6yc-pU_YjG2odeHFS2yAL6s/view?usp=sharing">RESUME</a>
+                <a href="https://github.com/nata-stelmakh"><i class="fab fa-github"></i></a>
+                <a href="https://www.linkedin.com/in/natallia-stelmakh-29b6001a6/"><i class="fab fa-linkedin"></i></a>
+
+            </div>
 
         </div>
     </div>
