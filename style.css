@@ -45,7 +45,9 @@
       font-size: 1.2em;
   }
   
- 
+ a{
+   color:gray;
+ }
   
    
   
@@ -82,9 +84,10 @@
    }
   #mainContainer{
     @media (max-width: 767.98px);
-    background-image:url(assets\89091255-programming-code-abstract-technology-background-of-software-developer-and-computer-script.jpg);
+    
 
   }
+  
      
   
   
